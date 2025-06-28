@@ -1,0 +1,6 @@
+breast_idc
+breast_non_idc
+lung_cancer
+lung_normal
+skin_benign
+skin_malignant
