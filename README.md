@@ -94,7 +94,7 @@ pip install tensorflow keras numpy pillow
 
 python gui/app.py
 
-You’ll be prompted to upload an image. The model will predict whether the input is benign or malignant.
+You’ll be prompted to upload an image. The model will predict whether the input is benign or malignant
 
 
 
